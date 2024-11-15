@@ -36,7 +36,7 @@ This project is suitable for developers interested in learning or revisiting ess
 ## 📂 Project Structure
 
 Todo_List_Application/
-├── todo.java            # The main application file
+├── SimpleToDoList.java            # The main application file
 ├── README.md            # Documentation for the project
 
 ---
